@@ -55,11 +55,12 @@ i#burguer{
     display:block;
     text-align:center;
     padding:10px;
+    cursor:pointer;
 }
 
 i#burguer:hover{
-    cursor:pointer;
-    background-color:rgb(121, 119, 119);
+    background-color:rgb(255, 255, 255);
+    color:black
 }
 
 menu ul{
