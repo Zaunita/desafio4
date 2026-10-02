@@ -63,6 +63,6 @@ i#burguer:hover{
     color:black
 }
 
-menu ul{
+menu#itens{
     display:none;
 }
