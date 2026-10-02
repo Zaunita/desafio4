@@ -15,6 +15,10 @@ header{
     text-align:center;
 }
 
+header h1{
+    font-size:1.8rem;
+}
+
 menu{
     display:block;
     background-color:rgb(190, 181, 181);
@@ -42,4 +46,22 @@ article{
 
 article p{
     text-align:center;
+}
+
+i#burguer{
+    color:white;
+    background-color:black;
+    width:100%;
+    display:block;
+    text-align:center;
+    padding:10px;
+}
+
+i#burguer:hover{
+    cursor:pointer;
+    background-color:rgb(121, 119, 119);
+}
+
+menu ul{
+    display:none;
 }
